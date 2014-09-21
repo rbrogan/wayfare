@@ -1,0 +1,3 @@
+This software is unlicensed.
+This software is currently in an unfinished, incomplete state.
+It is not currently intended for general use.
